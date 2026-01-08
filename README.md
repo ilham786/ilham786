@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# 💫 About Me:
+# 💫 About Me:
 Developer in progress, passionate about web technologies<br>HTML • CSS • JavaScript | Currently learning Python<br>Interested in Cybersecurity and building secure, efficient solutions<br>Always learning, always improving
 
 
@@ -25,11 +23,3 @@ Developer in progress, passionate about web technologies<br>HTML • CSS • Jav
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-**ilham786/ilham786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Developer in progress, passionate about web technologies
-HTML • CSS • JavaScript | Currently learning Python
-Interested in Cybersecurity and building secure, efficient solutions
-Always learning, always improving
